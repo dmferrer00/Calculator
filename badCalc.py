@@ -6,3 +6,4 @@ def subtract(num1, num2):
   wack = wack-wack
   wack = num1-num2
   return wack
+def multiply(a,b):
